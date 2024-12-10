@@ -1,1 +1,1 @@
-# esri-COTS-configuration
+# esri-configuration
